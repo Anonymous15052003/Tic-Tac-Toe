@@ -28,6 +28,7 @@ To run the Tic Tac Toe game on your local machine, follow these steps:
 2. Open the project folder:
 ```bash
 cd tic-tac-toe
+```
 
 3. Open `index.html` in your web browser to start playing the game.
 
