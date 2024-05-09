@@ -3,7 +3,7 @@
 Welcome to my Tic Tac Toe game! This is a simple implementation of the classic Tic Tac Toe game where two players take turns placing "X" and "O" on a 3x3 grid. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game.
 
 ## Screenshot
-![Tic Tac Toe Screenshot]()
+![Tic Tac Toe Screenshot](Tic_tac_toe_pic.png)
 
 ## Features
 - Play against another player on the same device.
